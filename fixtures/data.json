@@ -1,0 +1,2484 @@
+{
+  "arms": [
+    {
+      "arm_id": "study_0_arm_0",
+      "study_id": "study_0",
+      "cohort_id": "cohort_0_0",
+      "n": 12,
+      "role": "control"
+    },
+    {
+      "arm_id": "study_0_arm_1",
+      "study_id": "study_0",
+      "cohort_id": "cohort_0_1",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_0_arm_2",
+      "study_id": "study_0",
+      "cohort_id": "cohort_0_2",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_1_arm_0",
+      "study_id": "study_1",
+      "cohort_id": "cohort_1_0",
+      "n": 12,
+      "role": "control"
+    },
+    {
+      "arm_id": "study_1_arm_1",
+      "study_id": "study_1",
+      "cohort_id": "cohort_1_1",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_1_arm_2",
+      "study_id": "study_1",
+      "cohort_id": "cohort_1_2",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_2_arm_0",
+      "study_id": "study_2",
+      "cohort_id": "cohort_2_0",
+      "n": 12,
+      "role": "control"
+    },
+    {
+      "arm_id": "study_2_arm_1",
+      "study_id": "study_2",
+      "cohort_id": "cohort_2_1",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_2_arm_2",
+      "study_id": "study_2",
+      "cohort_id": "cohort_2_2",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_3_arm_0",
+      "study_id": "study_3",
+      "cohort_id": "cohort_3_0",
+      "n": 12,
+      "role": "control"
+    },
+    {
+      "arm_id": "study_3_arm_1",
+      "study_id": "study_3",
+      "cohort_id": "cohort_3_1",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_3_arm_2",
+      "study_id": "study_3",
+      "cohort_id": "cohort_3_2",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_4_arm_0",
+      "study_id": "study_4",
+      "cohort_id": "cohort_4_0",
+      "n": 12,
+      "role": "control"
+    },
+    {
+      "arm_id": "study_4_arm_1",
+      "study_id": "study_4",
+      "cohort_id": "cohort_4_1",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_4_arm_2",
+      "study_id": "study_4",
+      "cohort_id": "cohort_4_2",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_5_arm_0",
+      "study_id": "study_5",
+      "cohort_id": "cohort_5_0",
+      "n": 12,
+      "role": "control"
+    },
+    {
+      "arm_id": "study_5_arm_1",
+      "study_id": "study_5",
+      "cohort_id": "cohort_5_1",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_5_arm_2",
+      "study_id": "study_5",
+      "cohort_id": "cohort_5_2",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_6_arm_0",
+      "study_id": "study_6",
+      "cohort_id": "cohort_6_0",
+      "n": 12,
+      "role": "control"
+    },
+    {
+      "arm_id": "study_6_arm_1",
+      "study_id": "study_6",
+      "cohort_id": "cohort_6_1",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_6_arm_2",
+      "study_id": "study_6",
+      "cohort_id": "cohort_6_2",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_7_arm_0",
+      "study_id": "study_7",
+      "cohort_id": "cohort_7_0",
+      "n": 12,
+      "role": "control"
+    },
+    {
+      "arm_id": "study_7_arm_1",
+      "study_id": "study_7",
+      "cohort_id": "cohort_7_1",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_7_arm_2",
+      "study_id": "study_7",
+      "cohort_id": "cohort_7_2",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_8_arm_0",
+      "study_id": "study_8",
+      "cohort_id": "cohort_8_0",
+      "n": 12,
+      "role": "control"
+    },
+    {
+      "arm_id": "study_8_arm_1",
+      "study_id": "study_8",
+      "cohort_id": "cohort_8_1",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_8_arm_2",
+      "study_id": "study_8",
+      "cohort_id": "cohort_8_2",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_9_arm_0",
+      "study_id": "study_9",
+      "cohort_id": "cohort_9_0",
+      "n": 12,
+      "role": "control"
+    },
+    {
+      "arm_id": "study_9_arm_1",
+      "study_id": "study_9",
+      "cohort_id": "cohort_9_1",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_9_arm_2",
+      "study_id": "study_9",
+      "cohort_id": "cohort_9_2",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_10_arm_0",
+      "study_id": "study_10",
+      "cohort_id": "cohort_10_0",
+      "n": 12,
+      "role": "control"
+    },
+    {
+      "arm_id": "study_10_arm_1",
+      "study_id": "study_10",
+      "cohort_id": "cohort_10_1",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_10_arm_2",
+      "study_id": "study_10",
+      "cohort_id": "cohort_10_2",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_11_arm_0",
+      "study_id": "study_11",
+      "cohort_id": "cohort_11_0",
+      "n": 12,
+      "role": "control"
+    },
+    {
+      "arm_id": "study_11_arm_1",
+      "study_id": "study_11",
+      "cohort_id": "cohort_11_1",
+      "n": 12,
+      "role": "intervention"
+    },
+    {
+      "arm_id": "study_11_arm_2",
+      "study_id": "study_11",
+      "cohort_id": "cohort_11_2",
+      "n": 12,
+      "role": "intervention"
+    }
+  ],
+  "comparisons": [
+    {
+      "comparison_id": "cmp_0_1",
+      "study_id": "study_0",
+      "treatment": "study_0_arm_1",
+      "control": "study_0_arm_0"
+    },
+    {
+      "comparison_id": "cmp_0_2",
+      "study_id": "study_0",
+      "treatment": "study_0_arm_2",
+      "control": "study_0_arm_0"
+    },
+    {
+      "comparison_id": "cmp_1_1",
+      "study_id": "study_1",
+      "treatment": "study_1_arm_1",
+      "control": "study_1_arm_0"
+    },
+    {
+      "comparison_id": "cmp_1_2",
+      "study_id": "study_1",
+      "treatment": "study_1_arm_2",
+      "control": "study_1_arm_0"
+    },
+    {
+      "comparison_id": "cmp_2_1",
+      "study_id": "study_2",
+      "treatment": "study_2_arm_1",
+      "control": "study_2_arm_0"
+    },
+    {
+      "comparison_id": "cmp_2_2",
+      "study_id": "study_2",
+      "treatment": "study_2_arm_2",
+      "control": "study_2_arm_0"
+    },
+    {
+      "comparison_id": "cmp_3_1",
+      "study_id": "study_3",
+      "treatment": "study_3_arm_1",
+      "control": "study_3_arm_0"
+    },
+    {
+      "comparison_id": "cmp_3_2",
+      "study_id": "study_3",
+      "treatment": "study_3_arm_2",
+      "control": "study_3_arm_0"
+    },
+    {
+      "comparison_id": "cmp_4_1",
+      "study_id": "study_4",
+      "treatment": "study_4_arm_1",
+      "control": "study_4_arm_0"
+    },
+    {
+      "comparison_id": "cmp_4_2",
+      "study_id": "study_4",
+      "treatment": "study_4_arm_2",
+      "control": "study_4_arm_0"
+    },
+    {
+      "comparison_id": "cmp_5_1",
+      "study_id": "study_5",
+      "treatment": "study_5_arm_1",
+      "control": "study_5_arm_0"
+    },
+    {
+      "comparison_id": "cmp_5_2",
+      "study_id": "study_5",
+      "treatment": "study_5_arm_2",
+      "control": "study_5_arm_0"
+    },
+    {
+      "comparison_id": "cmp_6_1",
+      "study_id": "study_6",
+      "treatment": "study_6_arm_1",
+      "control": "study_6_arm_0"
+    },
+    {
+      "comparison_id": "cmp_6_2",
+      "study_id": "study_6",
+      "treatment": "study_6_arm_2",
+      "control": "study_6_arm_0"
+    },
+    {
+      "comparison_id": "cmp_7_1",
+      "study_id": "study_7",
+      "treatment": "study_7_arm_1",
+      "control": "study_7_arm_0"
+    },
+    {
+      "comparison_id": "cmp_7_2",
+      "study_id": "study_7",
+      "treatment": "study_7_arm_2",
+      "control": "study_7_arm_0"
+    },
+    {
+      "comparison_id": "cmp_8_1",
+      "study_id": "study_8",
+      "treatment": "study_8_arm_1",
+      "control": "study_8_arm_0"
+    },
+    {
+      "comparison_id": "cmp_8_2",
+      "study_id": "study_8",
+      "treatment": "study_8_arm_2",
+      "control": "study_8_arm_0"
+    },
+    {
+      "comparison_id": "cmp_9_1",
+      "study_id": "study_9",
+      "treatment": "study_9_arm_1",
+      "control": "study_9_arm_0"
+    },
+    {
+      "comparison_id": "cmp_9_2",
+      "study_id": "study_9",
+      "treatment": "study_9_arm_2",
+      "control": "study_9_arm_0"
+    },
+    {
+      "comparison_id": "cmp_10_1",
+      "study_id": "study_10",
+      "treatment": "study_10_arm_1",
+      "control": "study_10_arm_0"
+    },
+    {
+      "comparison_id": "cmp_10_2",
+      "study_id": "study_10",
+      "treatment": "study_10_arm_2",
+      "control": "study_10_arm_0"
+    },
+    {
+      "comparison_id": "cmp_11_1",
+      "study_id": "study_11",
+      "treatment": "study_11_arm_1",
+      "control": "study_11_arm_0"
+    },
+    {
+      "comparison_id": "cmp_11_2",
+      "study_id": "study_11",
+      "treatment": "study_11_arm_2",
+      "control": "study_11_arm_0"
+    }
+  ],
+  "cohorts": [
+    {
+      "cohort_id": "cohort_0_0",
+      "members": [
+        "person_0",
+        "person_1",
+        "person_2",
+        "person_3",
+        "person_4",
+        "person_5",
+        "person_6",
+        "person_7",
+        "person_8",
+        "person_9",
+        "person_10",
+        "person_11"
+      ]
+    },
+    {
+      "cohort_id": "cohort_0_1",
+      "members": [
+        "person_12",
+        "person_13",
+        "person_14",
+        "person_15",
+        "person_16",
+        "person_17",
+        "person_18",
+        "person_19",
+        "person_20",
+        "person_21",
+        "person_22",
+        "person_23"
+      ]
+    },
+    {
+      "cohort_id": "cohort_0_2",
+      "members": [
+        "person_24",
+        "person_25",
+        "person_26",
+        "person_27",
+        "person_28",
+        "person_29",
+        "person_30",
+        "person_31",
+        "person_32",
+        "person_33",
+        "person_34",
+        "person_35"
+      ]
+    },
+    {
+      "cohort_id": "cohort_1_0",
+      "members": [
+        "person_24",
+        "person_25",
+        "person_26",
+        "person_27",
+        "person_28",
+        "person_29",
+        "person_30",
+        "person_31",
+        "person_32",
+        "person_33",
+        "person_34",
+        "person_35"
+      ]
+    },
+    {
+      "cohort_id": "cohort_1_1",
+      "members": [
+        "person_36",
+        "person_37",
+        "person_38",
+        "person_39",
+        "person_40",
+        "person_41",
+        "person_42",
+        "person_43",
+        "person_44",
+        "person_45",
+        "person_46",
+        "person_47"
+      ]
+    },
+    {
+      "cohort_id": "cohort_1_2",
+      "members": [
+        "person_48",
+        "person_49",
+        "person_50",
+        "person_51",
+        "person_52",
+        "person_53",
+        "person_54",
+        "person_55",
+        "person_56",
+        "person_57",
+        "person_58",
+        "person_59"
+      ]
+    },
+    {
+      "cohort_id": "cohort_2_0",
+      "members": [
+        "person_48",
+        "person_49",
+        "person_50",
+        "person_51",
+        "person_52",
+        "person_53",
+        "person_54",
+        "person_55",
+        "person_56",
+        "person_57",
+        "person_58",
+        "person_59"
+      ]
+    },
+    {
+      "cohort_id": "cohort_2_1",
+      "members": [
+        "person_60",
+        "person_61",
+        "person_62",
+        "person_63",
+        "person_64",
+        "person_65",
+        "person_66",
+        "person_67",
+        "person_68",
+        "person_69",
+        "person_70",
+        "person_71"
+      ]
+    },
+    {
+      "cohort_id": "cohort_2_2",
+      "members": [
+        "person_72",
+        "person_73",
+        "person_74",
+        "person_75",
+        "person_76",
+        "person_77",
+        "person_78",
+        "person_79",
+        "person_80",
+        "person_81",
+        "person_82",
+        "person_83"
+      ]
+    },
+    {
+      "cohort_id": "cohort_3_0",
+      "members": [
+        "person_72",
+        "person_73",
+        "person_74",
+        "person_75",
+        "person_76",
+        "person_77",
+        "person_78",
+        "person_79",
+        "person_80",
+        "person_81",
+        "person_82",
+        "person_83"
+      ]
+    },
+    {
+      "cohort_id": "cohort_3_1",
+      "members": [
+        "person_84",
+        "person_85",
+        "person_86",
+        "person_87",
+        "person_88",
+        "person_89",
+        "person_90",
+        "person_91",
+        "person_92",
+        "person_93",
+        "person_94",
+        "person_95"
+      ]
+    },
+    {
+      "cohort_id": "cohort_3_2",
+      "members": [
+        "person_96",
+        "person_97",
+        "person_98",
+        "person_99",
+        "person_100",
+        "person_101",
+        "person_102",
+        "person_103",
+        "person_104",
+        "person_105",
+        "person_106",
+        "person_107"
+      ]
+    },
+    {
+      "cohort_id": "cohort_4_0",
+      "members": [
+        "person_96",
+        "person_97",
+        "person_98",
+        "person_99",
+        "person_100",
+        "person_101",
+        "person_102",
+        "person_103",
+        "person_104",
+        "person_105",
+        "person_106",
+        "person_107"
+      ]
+    },
+    {
+      "cohort_id": "cohort_4_1",
+      "members": [
+        "person_108",
+        "person_109",
+        "person_110",
+        "person_111",
+        "person_112",
+        "person_113",
+        "person_114",
+        "person_115",
+        "person_116",
+        "person_117",
+        "person_118",
+        "person_119"
+      ]
+    },
+    {
+      "cohort_id": "cohort_4_2",
+      "members": [
+        "person_120",
+        "person_121",
+        "person_122",
+        "person_123",
+        "person_124",
+        "person_125",
+        "person_126",
+        "person_127",
+        "person_128",
+        "person_129",
+        "person_130",
+        "person_131"
+      ]
+    },
+    {
+      "cohort_id": "cohort_5_0",
+      "members": [
+        "person_96",
+        "person_97",
+        "person_98",
+        "person_99",
+        "person_100",
+        "person_101",
+        "person_102",
+        "person_103",
+        "person_104",
+        "person_105",
+        "person_106",
+        "person_107"
+      ]
+    },
+    {
+      "cohort_id": "cohort_5_1",
+      "members": [
+        "person_108",
+        "person_109",
+        "person_110",
+        "person_111",
+        "person_112",
+        "person_113",
+        "person_114",
+        "person_115",
+        "person_116",
+        "person_117",
+        "person_118",
+        "person_119"
+      ]
+    },
+    {
+      "cohort_id": "cohort_5_2",
+      "members": [
+        "person_120",
+        "person_121",
+        "person_122",
+        "person_123",
+        "person_124",
+        "person_125",
+        "person_126",
+        "person_127",
+        "person_128",
+        "person_129",
+        "person_130",
+        "person_131"
+      ]
+    },
+    {
+      "cohort_id": "cohort_6_0",
+      "members": [
+        "person_144",
+        "person_145",
+        "person_146",
+        "person_147",
+        "person_148",
+        "person_149",
+        "person_150",
+        "person_151",
+        "person_152",
+        "person_153",
+        "person_154",
+        "person_155"
+      ]
+    },
+    {
+      "cohort_id": "cohort_6_1",
+      "members": [
+        "person_156",
+        "person_157",
+        "person_158",
+        "person_159",
+        "person_160",
+        "person_161",
+        "person_162",
+        "person_163",
+        "person_164",
+        "person_165",
+        "person_166",
+        "person_167"
+      ]
+    },
+    {
+      "cohort_id": "cohort_6_2",
+      "members": [
+        "person_168",
+        "person_169",
+        "person_170",
+        "person_171",
+        "person_172",
+        "person_173",
+        "person_174",
+        "person_175",
+        "person_176",
+        "person_177",
+        "person_178",
+        "person_179"
+      ]
+    },
+    {
+      "cohort_id": "cohort_7_0",
+      "members": [
+        "person_168",
+        "person_169",
+        "person_170",
+        "person_171",
+        "person_172",
+        "person_173",
+        "person_174",
+        "person_175",
+        "person_176",
+        "person_177",
+        "person_178",
+        "person_179"
+      ]
+    },
+    {
+      "cohort_id": "cohort_7_1",
+      "members": [
+        "person_180",
+        "person_181",
+        "person_182",
+        "person_183",
+        "person_184",
+        "person_185",
+        "person_186",
+        "person_187",
+        "person_188",
+        "person_189",
+        "person_190",
+        "person_191"
+      ]
+    },
+    {
+      "cohort_id": "cohort_7_2",
+      "members": [
+        "person_192",
+        "person_193",
+        "person_194",
+        "person_195",
+        "person_196",
+        "person_197",
+        "person_198",
+        "person_199",
+        "person_200",
+        "person_201",
+        "person_202",
+        "person_203"
+      ]
+    },
+    {
+      "cohort_id": "cohort_8_0",
+      "members": [
+        "person_192",
+        "person_193",
+        "person_194",
+        "person_195",
+        "person_196",
+        "person_197",
+        "person_198",
+        "person_199",
+        "person_200",
+        "person_201",
+        "person_202",
+        "person_203"
+      ]
+    },
+    {
+      "cohort_id": "cohort_8_1",
+      "members": [
+        "person_204",
+        "person_205",
+        "person_206",
+        "person_207",
+        "person_208",
+        "person_209",
+        "person_210",
+        "person_211",
+        "person_212",
+        "person_213",
+        "person_214",
+        "person_215"
+      ]
+    },
+    {
+      "cohort_id": "cohort_8_2",
+      "members": [
+        "person_216",
+        "person_217",
+        "person_218",
+        "person_219",
+        "person_220",
+        "person_221",
+        "person_222",
+        "person_223",
+        "person_224",
+        "person_225",
+        "person_226",
+        "person_227"
+      ]
+    },
+    {
+      "cohort_id": "cohort_9_0",
+      "members": [
+        "person_216",
+        "person_217",
+        "person_218",
+        "person_219",
+        "person_220",
+        "person_221",
+        "person_222",
+        "person_223",
+        "person_224",
+        "person_225",
+        "person_226",
+        "person_227"
+      ]
+    },
+    {
+      "cohort_id": "cohort_9_1",
+      "members": [
+        "person_228",
+        "person_229",
+        "person_230",
+        "person_231",
+        "person_232",
+        "person_233",
+        "person_234",
+        "person_235",
+        "person_236",
+        "person_237",
+        "person_238",
+        "person_239"
+      ]
+    },
+    {
+      "cohort_id": "cohort_9_2",
+      "members": [
+        "person_240",
+        "person_241",
+        "person_242",
+        "person_243",
+        "person_244",
+        "person_245",
+        "person_246",
+        "person_247",
+        "person_248",
+        "person_249",
+        "person_250",
+        "person_251"
+      ]
+    },
+    {
+      "cohort_id": "cohort_10_0",
+      "members": [
+        "person_240",
+        "person_241",
+        "person_242",
+        "person_243",
+        "person_244",
+        "person_245",
+        "person_246",
+        "person_247",
+        "person_248",
+        "person_249",
+        "person_250",
+        "person_251"
+      ]
+    },
+    {
+      "cohort_id": "cohort_10_1",
+      "members": [
+        "person_252",
+        "person_253",
+        "person_254",
+        "person_255",
+        "person_256",
+        "person_257",
+        "person_258",
+        "person_259",
+        "person_260",
+        "person_261",
+        "person_262",
+        "person_263"
+      ]
+    },
+    {
+      "cohort_id": "cohort_10_2",
+      "members": [
+        "person_264",
+        "person_265",
+        "person_266",
+        "person_267",
+        "person_268",
+        "person_269",
+        "person_270",
+        "person_271",
+        "person_272",
+        "person_273",
+        "person_274",
+        "person_275"
+      ]
+    },
+    {
+      "cohort_id": "cohort_11_0",
+      "members": [
+        "person_264",
+        "person_265",
+        "person_266",
+        "person_267",
+        "person_268",
+        "person_269",
+        "person_270",
+        "person_271",
+        "person_272",
+        "person_273",
+        "person_274",
+        "person_275"
+      ]
+    },
+    {
+      "cohort_id": "cohort_11_1",
+      "members": [
+        "person_276",
+        "person_277",
+        "person_278",
+        "person_279",
+        "person_280",
+        "person_281",
+        "person_282",
+        "person_283",
+        "person_284",
+        "person_285",
+        "person_286",
+        "person_287"
+      ]
+    },
+    {
+      "cohort_id": "cohort_11_2",
+      "members": [
+        "person_288",
+        "person_289",
+        "person_290",
+        "person_291",
+        "person_292",
+        "person_293",
+        "person_294",
+        "person_295",
+        "person_296",
+        "person_297",
+        "person_298",
+        "person_299"
+      ]
+    }
+  ],
+  "means": [
+    {
+      "arm_id": "study_0_arm_0",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 59.763,
+      "sd": null
+    },
+    {
+      "arm_id": "study_0_arm_0",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 57.762,
+      "sd": null
+    },
+    {
+      "arm_id": "study_0_arm_0",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 55.712,
+      "sd": null
+    },
+    {
+      "arm_id": "study_0_arm_0",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": false,
+      "mean": null,
+      "sd": null
+    },
+    {
+      "arm_id": "study_0_arm_1",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 60.57,
+      "sd": null
+    },
+    {
+      "arm_id": "study_0_arm_1",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 52.506,
+      "sd": null
+    },
+    {
+      "arm_id": "study_0_arm_1",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 54.972,
+      "sd": null
+    },
+    {
+      "arm_id": "study_0_arm_1",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": false,
+      "mean": null,
+      "sd": null
+    },
+    {
+      "arm_id": "study_0_arm_2",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 53.312,
+      "sd": null
+    },
+    {
+      "arm_id": "study_0_arm_2",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 49.882,
+      "sd": null
+    },
+    {
+      "arm_id": "study_0_arm_2",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 53.995,
+      "sd": null
+    },
+    {
+      "arm_id": "study_0_arm_2",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": false,
+      "mean": null,
+      "sd": null
+    },
+    {
+      "arm_id": "study_1_arm_0",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 51.898,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_1_arm_0",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 53.987,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_1_arm_0",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 49.944,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_1_arm_0",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 53.81,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_1_arm_1",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 55.893,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_1_arm_1",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 56.453,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_1_arm_1",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 52.16,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_1_arm_1",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 61.621,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_1_arm_2",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 61.541,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_1_arm_2",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 50.724,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_1_arm_2",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 58.254,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_1_arm_2",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 51.119,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_2_arm_0",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 55.122,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_2_arm_0",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 51.212,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_2_arm_0",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 57.734,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_2_arm_0",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 67.88,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_2_arm_1",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 59.789,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_2_arm_1",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 56.267,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_2_arm_1",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 56.501,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_2_arm_1",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 51.584,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_2_arm_2",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 59.86,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_2_arm_2",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 55.166,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_2_arm_2",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 46.876,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_2_arm_2",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 64.276,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_3_arm_0",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 51.327,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_3_arm_0",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 53.423,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_3_arm_0",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 61.881,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_3_arm_0",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 51.887,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_3_arm_1",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 41.386,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_3_arm_1",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 57.68,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_3_arm_1",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 58.761,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_3_arm_1",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 56.114,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_3_arm_2",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 52.23,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_3_arm_2",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 53.934,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_3_arm_2",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 51.05,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_3_arm_2",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 53.213,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_4_arm_0",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 61.934,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_4_arm_0",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 51.884,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_4_arm_0",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 58.316,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_4_arm_0",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": false,
+      "mean": null,
+      "sd": null
+    },
+    {
+      "arm_id": "study_4_arm_1",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 59.019,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_4_arm_1",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 55.42,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_4_arm_1",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 55.528,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_4_arm_1",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": false,
+      "mean": null,
+      "sd": null
+    },
+    {
+      "arm_id": "study_4_arm_2",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 50.687,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_4_arm_2",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 59.146,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_4_arm_2",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 53.945,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_4_arm_2",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": false,
+      "mean": null,
+      "sd": null
+    },
+    {
+      "arm_id": "study_5_arm_0",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 59.394,
+      "sd": null
+    },
+    {
+      "arm_id": "study_5_arm_0",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 55.411,
+      "sd": null
+    },
+    {
+      "arm_id": "study_5_arm_0",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 54.609,
+      "sd": null
+    },
+    {
+      "arm_id": "study_5_arm_0",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 54.1,
+      "sd": null
+    },
+    {
+      "arm_id": "study_5_arm_1",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 57.772,
+      "sd": null
+    },
+    {
+      "arm_id": "study_5_arm_1",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 57.915,
+      "sd": null
+    },
+    {
+      "arm_id": "study_5_arm_1",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 53.735,
+      "sd": null
+    },
+    {
+      "arm_id": "study_5_arm_1",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 48.596,
+      "sd": null
+    },
+    {
+      "arm_id": "study_5_arm_2",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 48.233,
+      "sd": null
+    },
+    {
+      "arm_id": "study_5_arm_2",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 55.178,
+      "sd": null
+    },
+    {
+      "arm_id": "study_5_arm_2",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 51.676,
+      "sd": null
+    },
+    {
+      "arm_id": "study_5_arm_2",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 49.391,
+      "sd": null
+    },
+    {
+      "arm_id": "study_6_arm_0",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 53.252,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_6_arm_0",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 58.239,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_6_arm_0",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 53.387,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_6_arm_0",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 60.015,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_6_arm_1",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 60.763,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_6_arm_1",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 51.291,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_6_arm_1",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 56.26,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_6_arm_1",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 54.413,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_6_arm_2",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 61.594,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_6_arm_2",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 47.478,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_6_arm_2",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 49.274,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_6_arm_2",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 59.892,
+      "sd": 10
+    },
+    {
+      "arm_id": "study_7_arm_0",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 55.184,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_7_arm_0",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 58.174,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_7_arm_0",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 46.636,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_7_arm_0",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 64.646,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_7_arm_1",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 53.886,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_7_arm_1",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 49.519,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_7_arm_1",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 58.291,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_7_arm_1",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 53.518,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_7_arm_2",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 53.532,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_7_arm_2",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 63.593,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_7_arm_2",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 55.38,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_7_arm_2",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 49.61,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_8_arm_0",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 51.575,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_8_arm_0",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 55.507,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_8_arm_0",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 56.986,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_8_arm_0",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": false,
+      "mean": null,
+      "sd": null
+    },
+    {
+      "arm_id": "study_8_arm_1",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 57.654,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_8_arm_1",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 50.966,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_8_arm_1",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 59.061,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_8_arm_1",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": false,
+      "mean": null,
+      "sd": null
+    },
+    {
+      "arm_id": "study_8_arm_2",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 61.228,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_8_arm_2",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 60.987,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_8_arm_2",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 50.308,
+      "sd": 8
+    },
+    {
+      "arm_id": "study_8_arm_2",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": false,
+      "mean": null,
+      "sd": null
+    },
+    {
+      "arm_id": "study_9_arm_0",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 56.286,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_9_arm_0",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 56.305,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_9_arm_0",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 56.678,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_9_arm_0",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 65.879,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_9_arm_1",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 54.778,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_9_arm_1",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 63.981,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_9_arm_1",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 52.53,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_9_arm_1",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 50.665,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_9_arm_2",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 56.329,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_9_arm_2",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 54.597,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_9_arm_2",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 63.528,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_9_arm_2",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 59.359,
+      "sd": 9
+    },
+    {
+      "arm_id": "study_10_arm_0",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 56.464,
+      "sd": null
+    },
+    {
+      "arm_id": "study_10_arm_0",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 60.712,
+      "sd": null
+    },
+    {
+      "arm_id": "study_10_arm_0",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 49.346,
+      "sd": null
+    },
+    {
+      "arm_id": "study_10_arm_0",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 62.842,
+      "sd": null
+    },
+    {
+      "arm_id": "study_10_arm_1",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 51.338,
+      "sd": null
+    },
+    {
+      "arm_id": "study_10_arm_1",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 58.534,
+      "sd": null
+    },
+    {
+      "arm_id": "study_10_arm_1",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 55.954,
+      "sd": null
+    },
+    {
+      "arm_id": "study_10_arm_1",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 61.639,
+      "sd": null
+    },
+    {
+      "arm_id": "study_10_arm_2",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 52.739,
+      "sd": null
+    },
+    {
+      "arm_id": "study_10_arm_2",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 50.57,
+      "sd": null
+    },
+    {
+      "arm_id": "study_10_arm_2",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 55.182,
+      "sd": null
+    },
+    {
+      "arm_id": "study_10_arm_2",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 52.984,
+      "sd": null
+    },
+    {
+      "arm_id": "study_11_arm_0",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 58.042,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_11_arm_0",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 59.35,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_11_arm_0",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 58.573,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_11_arm_0",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 51.607,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_11_arm_1",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 58.88,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_11_arm_1",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 61.347,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_11_arm_1",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 56.547,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_11_arm_1",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 61.898,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_11_arm_2",
+      "outcome": "completion_score",
+      "week": 4,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 55.407,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_11_arm_2",
+      "outcome": "completion_score",
+      "week": 12,
+      "scale_id": "v2",
+      "declared": true,
+      "reported": true,
+      "mean": 56.914,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_11_arm_2",
+      "outcome": "error_count",
+      "week": 4,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 69.854,
+      "sd": 11
+    },
+    {
+      "arm_id": "study_11_arm_2",
+      "outcome": "error_count",
+      "week": 12,
+      "scale_id": "v1",
+      "declared": true,
+      "reported": true,
+      "mean": 56.857,
+      "sd": 11
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "completion_score",
+      "direction": "higher",
+      "scales": [
+        "v1",
+        "v2"
+      ]
+    },
+    {
+      "id": "error_count",
+      "direction": "lower",
+      "scales": [
+        "v1"
+      ]
+    }
+  ],
+  "correlations": {
+    "same_arm_repeated": {
+      "known": false,
+      "range": [
+        0.2,
+        0.8
+      ]
+    }
+  }
+}
