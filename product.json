@@ -1,6 +1,6 @@
 {
   "name": "重复研究证据簿",
-  "focus": "研究组别的原始比较",
+  "focus": "研究组别的原始比较与跨研究整合",
   "options": [
     [
       "outcome",
@@ -9,10 +9,79 @@
         "completion_score",
         "error_count"
       ]
+    ],
+    [
+      "time_policy",
+      "时间策略",
+      [
+        "latest",
+        "all_weeks"
+      ]
+    ],
+    [
+      "model",
+      "合并模型",
+      [
+        "random",
+        "fixed"
+      ]
+    ],
+    [
+      "contrast_rule",
+      "研究内比较",
+      [
+        "first",
+        "last"
+      ]
+    ],
+    [
+      "reporting_policy",
+      "报告完整性",
+      [
+        "complete_only",
+        "available_case"
+      ]
+    ],
+    [
+      "overlap_policy",
+      "重复证据处理",
+      [
+        "independent",
+        "all",
+        "strict"
+      ]
     ]
   ],
   "selection": {
-    "outcome": "completion_score"
+    "outcome": "completion_score",
+    "time_policy": "latest",
+    "model": "random",
+    "contrast_rule": "last",
+    "reporting_policy": "complete_only",
+    "overlap_policy": "independent"
+  },
+  "labels": {
+    "time_policy": {
+      "latest": "每个研究取范围内最后一个时间点",
+      "all_weeks": "范围内全部时间点（需相关性假设）"
+    },
+    "model": {
+      "random": "随机效应",
+      "fixed": "固定效应"
+    },
+    "reporting_policy": {
+      "complete_only": "仅合并完整报告的研究",
+      "available_case": "合并有完整配对的可用数据"
+    },
+    "overlap_policy": {
+      "independent": "每项研究只计一次（主分析）",
+      "all": "把重叠研究都当独立证据",
+      "strict": "剔除任何有重叠的研究"
+    },
+    "contrast_rule": {
+      "first": "取每个研究的第一个比较",
+      "last": "取每个研究的最后一个比较"
+    }
   },
   "purpose": "本地研究资料浏览与复核记录"
 }

@@ -27,13 +27,30 @@ class BrowserWorkflow(unittest.TestCase):
                 with sync_playwright() as playwright:
                     browser = playwright.chromium.launch(headless=True)
                     try:
-                        page = browser.new_page(viewport={'width': 1280, 'height': 720})
+                        page = browser.new_page(viewport={'width': 1280, 'height': 1100})
                         errors = []
                         page.on('pageerror', lambda error: errors.append(str(error)))
                         page.goto(f'http://127.0.0.1:{server.server_port}', wait_until='networkidle')
                         page.locator('#status').filter(has_text='已更新描述').wait_for()
                         self.assertEqual(page.locator('h1').inner_text(), product['name'])
-                        self.assertGreater(page.locator('#rows tr').count(), 0)
+
+                        # 跨研究整合：总体效应、研究间差异、适用范围。
+                        page.locator('.group').first.wait_for()
+                        self.assertIn('总体效应', page.locator('.group .estimate').first.inner_text())
+                        self.assertIn('研究间差异', page.locator('.group .facts').first.inner_text())
+                        self.assertIn('适用范围', page.locator('.group .scope').first.inner_text())
+                        # 展开每项贡献并核对原始组别。
+                        page.locator('.group .toggle').first.click()
+                        page.locator('.group .contribution').first.wait_for()
+                        page.locator('.group .contribution').first.locator('summary').click()
+                        self.assertIn('干预组', page.locator('.group .contribution .arm').first.inner_text())
+                        # 并列呈现保留未报告/缺记录状态，与零效应分开。
+                        page.locator('.reporting summary').first.click()
+                        self.assertIn('已声明未报告', page.locator('.reporting summary').first.inner_text())
+                        # 敏感性分析可展开。
+                        page.locator('.sensitivity summary').first.click()
+                        self.assertGreater(page.locator('.sensitivity tbody tr').count(), 0)
+
                         page.locator('#rows tr').first.click()
                         self.assertIn('{', page.locator('#details').inner_text())
                         page.locator('#raw').click()
@@ -42,15 +59,17 @@ class BrowserWorkflow(unittest.TestCase):
                         page.locator('#title').fill('会议复核 α')
                         page.locator('#save').click()
                         page.locator('#status').filter(has_text='已保存记录').wait_for()
-                        saved = json.loads(page.locator('#details').inner_text())
-                        option = product['options'][1] if len(product['options']) > 1 else product['options'][0]
+                        saved_id = int(page.locator('#status').inner_text().split('#')[1].split(' ')[0])
+                        saved = page.evaluate("id => fetch('/api/notebooks/' + id).then(r => r.json())", saved_id)
+                        self.assertIn('synthesis', saved['result']['view'])
+                        option = next(option for option in product['options'] if option[0] == 'time_policy')
                         alternative = next(value for value in option[2] if value != product['selection'][option[0]])
                         page.locator('#select-' + option[0]).select_option(alternative)
                         page.locator('#inspect').click()
                         page.wait_for_function("([key, value]) => JSON.parse(document.querySelector('#details').textContent).selection[key] === value", arg=[option[0], alternative])
                         page.locator('#archive button').first.click()
-                        page.locator('#status').filter(has_text='已读取保存的描述').wait_for()
-                        reopened = json.loads(page.locator('#details').inner_text())
+                        page.locator('#status').filter(has_text='已读取保存的复核记录').wait_for()
+                        reopened = page.evaluate("id => fetch('/api/notebooks/' + id).then(r => r.json())", saved_id)
                         self.assertEqual(saved, reopened)
                         with page.expect_download() as event:
                             page.locator('#export').click()
