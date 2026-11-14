@@ -1,0 +1,9 @@
+{
+  "name": "evidence-synthesis",
+  "version": "0.3.0",
+  "private": true,
+  "scripts": {
+    "start": "python3 -m evidence_synthesis",
+    "test:browser": "python3 tests/browser_smoke.py"
+  }
+}
